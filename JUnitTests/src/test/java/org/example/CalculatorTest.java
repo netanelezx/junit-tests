@@ -1,3 +1,4 @@
+package org.example;
 import static org.junit.Assert.*;
 
 import org.example.Calculator;
